@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'm Adrian!
 
-<!--
-**ADRIAN02-CODE/ADRIAN02-CODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on: Enhancing my skills in AI and Data Science through exciting projects.
 
-Here are some ideas to get you started:
+🌱 Currently learning: Python (my primary focus), Java, HTML, CSS, JavaScript, SQL, and diving deep into AI and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Looking to collaborate on: AI, Data Science, and web development projects to apply my knowledge and grow.
+
+🤝 Seeking help with: Building innovative AI and Data Science projects to advance my expertise.
+
+👨‍💻 My projects: Explore my work on LinkedIn Projects.
+
+📝 I write about tech: Check out my articles on CODEMASTERS GUILD.
+
+💬 Ask me about: Python, Java, HTML, CSS, JavaScript, React, Node.js, SQL, AI, and Data Science.
+
+📫 Reach me at: adrianvethanayagam@gmail.com
+
+📄 Learn about my experience: https://www.linkedin.com/in/joshua-adrian-/
+
+⚡ Fun fact: I love coding, especially with Python, and exploring AI and Data Science possibilities!
+
