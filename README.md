@@ -35,15 +35,11 @@
 
 ---
 
-## ▾ Profile Statistics
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADRIAN02-CODE&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIAN02-CODE&layout=compact&theme=tokyonight" height="150"/>
-</p>
+## ▾ Profile Fun
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADRIAN02-CODE&theme=tokyonight" height="180"/>
+  <!-- adjust width or height as you like -->
+  <img src="https://github.com/ADRIAN02-CODE/ADRIAN02-CODE/blob/main/snake.gif?raw=true" alt="Moving Snake" width="500"/>
 </p>
 
 <p align="center">
@@ -60,3 +56,4 @@
   <b>Thanks for visiting!</b><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:22c1c3&height=120&section=footer"/>
 </p>
+
