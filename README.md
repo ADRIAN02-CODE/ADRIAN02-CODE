@@ -57,3 +57,33 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:22c1c3&height=120&section=footer"/>
 </p>
 
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ADRIAN02-CODE
+          outputs: dist/snake.svg
+
+      - name: Push generated snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
