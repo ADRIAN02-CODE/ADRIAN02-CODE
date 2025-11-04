@@ -1,22 +1,24 @@
-👋 Hi, I'm Adrian!
+# Yo world! Adrian just entered the chat
 
-🔭 Currently working on: Enhancing my skills in AI and Data Science through exciting projects.
+> AI & Data Science Student at RGU University
 
-🌱 Currently learning: Python (my primary focus), Java, HTML, CSS, JavaScript, SQL, and diving deep into AI and Data Science.
+![Banner](https://github.com/ADRIAN02-CODE/ADRIAN02-CODE/blob/main/a9cf51e4-82b3-4c92-ad14-ed286b5a7e04.png?raw=true)
 
-👯 Looking to collaborate on: AI, Data Science, and web development projects to apply my knowledge and grow.
+---
 
-🤝 Seeking help with: Building innovative AI and Data Science projects to advance my expertise.
+## ▾ Connect with me
 
-👨‍💻 My projects: Explore my work on LinkedIn Projects.
 
-📝 I write about tech: Check out my articles on CODEMASTERS GUILD.
+[![LinkedIn](https://www.linkedin.com/in/joshua-adrian-/)
+[![Instagram](https://www.instagram.com/j_adrian_v/)
+[![GitHub](https://github.com/ADRIAN02-CODE)
 
-💬 Ask me about: Python, Java, HTML, CSS, JavaScript, React, Node.js, SQL, AI, and Data Science.
+---
 
-📫 Reach me at: adrianvethanayagam@gmail.com
+## ▾ Languages and Tools
 
-📄 Learn about my experience: https://www.linkedin.com/in/joshua-adrian-/
-
-⚡ Fun fact: I love coding, especially with Python, and exploring AI and Data Science possibilities!
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shie
