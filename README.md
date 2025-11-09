@@ -36,16 +36,11 @@
 
 </div>
 
-<div align="center">
 
-![ADRIAN02-CODE's GitHub Contributions Chart](https://ghchart.rshah.org/ADRIAN02-CODE)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ADRIAN02-CODE.ADRIAN02-CODE)
-
-</div>
 
 ---
 
-<p align="center"><b>✨ Thanks for visiting! ✨</b></p>
+<p align="center"><b>  Thanks for visiting watch for stray bugs </b></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:22c1c3&height=120&section=footer"/>
