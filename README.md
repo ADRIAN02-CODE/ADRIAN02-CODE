@@ -32,7 +32,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/ADRIAN02-CODE/ADRIAN02-CODE/blob/main/snake.gif?raw=true" width="100%" alt="Moving Snake"/>
+  <img src="https://github.com/ADRIAN02-CODE/ADRIAN02-CODE/blob/main/snake.gif?raw=true" width="100%" alt="GitHub Contribution Snake"/>
+
 </div>
 
 <div align="center">
