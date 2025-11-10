@@ -13,7 +13,7 @@
 </div>
 
 <br/>
-
+<div align="center">
  Languages & Tools
 <div align="center">
 <p>
