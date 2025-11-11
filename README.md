@@ -49,13 +49,13 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200">
 </p>
 
 ---
 
-<p align="center"><b>💡 Thanks for visiting — watch out for stray bugs! 🐞</b></p>
+<p align="center"><b> Thanks for visiting watch out for stray bugs.</b></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:22c1c3&height=120&section=footer"/>
