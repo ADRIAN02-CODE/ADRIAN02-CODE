@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Sup world! I'm **Adrian**  
-### 🎓 AI & Data Science Student @ RGU University  
-#### 🚀 Turning Data into Useful Insights  
+#  Sup world! I'm **Adrian**  
+###  AI & Data Science Student @ RGU University  
+#### Turning Data into Something Useful  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C1C3&width=435&lines=AI+Enthusiast+%7C+Data+Explorer;Full+Stack+Learner+%7C+Problem+Solver;Always+Curious+%7C+Always+Building)
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-adrian-/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_adrian_v/)
@@ -16,7 +16,7 @@
 
 ---
 
-### 🧠 Languages & Tools
+###  Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,java,postgresql,html,css,figma,git,github" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 🌌 Fun Zone
+### 
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200">
