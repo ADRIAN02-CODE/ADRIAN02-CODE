@@ -62,12 +62,9 @@
 </p>
 
 ---
-### 🐍 My Contribution Snake
+
 ![github-snake](https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/github-snake.svg)
 
-![github-snake-dark](https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/github-snake-dark.svg#gh-dark-mode-only)
-
-![ocean-snake](https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/ocean.gif)
 
 ---
 
