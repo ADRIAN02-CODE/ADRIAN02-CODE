@@ -61,4 +61,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:22c1c3&height=120&section=footer"/>
 </p>
 
+---
+### 🐍 My Contribution Snake
+![github-snake](https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/github-snake.svg)
+
+![github-snake-dark](https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/github-snake-dark.svg#gh-dark-mode-only)
+
+![ocean-snake](https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/ocean.gif)
+
+---
+
 </div>
