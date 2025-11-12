@@ -4,7 +4,7 @@
 ###  AI & Data Science Student @ RGU University  
 #### Turning Data into Something Useful  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C1C3&width=435&lines=AI+Enthusiast+%7C+Data+Explorer;Full+Stack+Learner+%7C+Problem+Solver;Always+Curious+%7C+Always+Building)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5D4&width=550&lines=Data+Science+Architect+%7C+AI+Visionary;Turning+Data+Into+Insights+%7C+Impact+Driven;Machine+Learning+%7C+Big+Data+%7C+Cloud;Always+Learning+%7C+Always+Building)
 
 ---
 
