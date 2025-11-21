@@ -1,14 +1,14 @@
 <div align="center">
 
-#  Sup world! I'm **Adrian**  
-###  AI & Data Science Student @ RGU University  
-#### Turning Data into Something Useful  
+# 👋 Hey, I'm **Adrian**
+### AI & Data Science Student @ RGU  
+#### Turning Data Into Something Useful ✨
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=22C1C3&center=true&vCenter=true&width=550&lines=Data+Wrangler+%7C+Model+Tamer;Turning+Coffee+Into+Insights;AI+Dreamer+%7C+ML+Believer;Full+Stack+Learner+%7C+Bug+Hunter;Always+Curious+%7C+Always+Building)
 
 ---
 
-###  Connect with Me
+## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-adrian-/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_adrian_v/)
@@ -16,15 +16,13 @@
 
 ---
 
-###  Languages & Tools
+## 🧰 Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,java,postgresql,html,css,figma,git,github" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,react,java,postgresql,html,css,figma,git,github" />
 
 ---
 
-### ⚙️ GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ADRIAN02-CODE&show_icons=true&theme=tokyonight" />
@@ -37,14 +35,13 @@
 
 ---
 
+## 🐍 GitHub Activity Snake  
 
-<p align="center">
-  <img src="https://github.com/ADRIAN02-CODE/ADRIAN02-CODE/blob/main/snake.gif?raw=true" width="100%" alt="GitHub Contribution Snake"/>
-</p>
+![github-snake](https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/github-snake.svg)
 
 ---
 
-### 
+## 🎬 Fun Vibes
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200">
@@ -54,18 +51,8 @@
 
 ---
 
-<p align="center"><b> Thanks for visiting watch out for stray bugs.</b></p>
+<p align="center"><b>Thanks for visiting — and watch out for stray bugs 🐛</b></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:22c1c3&height=120&section=footer"/>
-</p>
-
----
-
-### 🐍 GitHub Activity Snake
-![github-snake](https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/github-snake.svg)
-
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:22c1c3&height=120&section=footer"/>
 
 </div>
