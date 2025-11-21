@@ -24,14 +24,18 @@
 
 ## 📊 GitHub Analytics
 
+
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ADRIAN02-CODE&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ADRIAN02-CODE&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ADRIAN02-CODE&show_icons=true&theme=highcontrast&bg_color=000000&title_color=ff00ff&icon_color=00eaff&text_color=ffffff&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ADRIAN02-CODE&theme=highcontrast&hide_border=true&background=000000" width="48%">
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIAN02-CODE&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIAN02-CODE&layout=compact&theme=highcontrast&bg_color=000000&title_color=ff00ff&hide_border=true" width="48%">
 </p>
+
+
 
 ---
 
