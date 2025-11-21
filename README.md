@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm **Adrian**
+# 👋 Sup geeks I'm **Adrian**
 ### AI & Data Science Student @ RGU  
 #### Turning Data Into Something Useful ✨
 
@@ -12,8 +12,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-adrian-/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_adrian_v/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADRIAN02-CODE)
-
 ---
 
 ## 🧰 Languages & Tools
@@ -27,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADRIAN02-CODE&show_icons=true&theme=highcontrast&bg_color=000000&title_color=ff00ff&icon_color=00eaff&text_color=ffffff&hide_border=true" width="48%">
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ADRIAN02-CODE&theme=highcontrast&hide_border=true&background=000000" width="48%">
 </p>
 
