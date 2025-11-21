@@ -37,7 +37,6 @@
 
 ---
 
-### 🐍 GitHub Activity Snake
 
 <p align="center">
   <img src="https://github.com/ADRIAN02-CODE/ADRIAN02-CODE/blob/main/snake.gif?raw=true" width="100%" alt="GitHub Contribution Snake"/>
@@ -63,6 +62,7 @@
 
 ---
 
+### 🐍 GitHub Activity Snake
 ![github-snake](https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/github-snake.svg)
 
 
