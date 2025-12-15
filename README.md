@@ -18,7 +18,7 @@
 
 ## About
 
-- AI & Data Science undergrad who enjoys building ML experiments and breaking things in the name of “learning”.[web:5]  
+- AI & Data Science undergrad who enjoys building ML experiments and breaking things in the name of “learning”.
 - Splitting time between Python notebooks, Java projects, and fixing “just one more” bug.
 
 ---
