@@ -1,12 +1,14 @@
 <div align="center">
 
-#  Sup geeks I'm **Adrian**
-### AI & Data Science Student @ RGU  
-#### Turning Data Into Something Useful 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:22c1c3&height=180&section=header&text=Sup%20Geeks%20👾%20I'm%20Adrian&fontSize=32&fontColor=ffffff"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=22C1C3&center=true&vCenter=true&width=550&lines=Data+Wrangler+%7C+Model+Tamer;Turning+Coffee+Into+Insights;AI+Dreamer+%7C+ML+Believer;Full+Stack+Learner+%7C+Bug+Hunter;Always+Curious+%7C+Always+Building)
+### AI & Data Science Student @ RGU  
+#### Turning messy data into useful decisions
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1800&pause=900&color=22C1C3&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Data+Wrangler+%7C+Model+Tamer;Coffee+Powered+Experiment+Runner;Full+Stack+Learner+%7C+Bug+Hunter;Always+Curious+%7C+Always+Building)](https://github.com/ADRIAN02-CODE)
 
 ---
+
 
 ##  Connect with Me
 
