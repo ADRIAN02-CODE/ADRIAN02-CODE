@@ -61,3 +61,21 @@
   <b>Breaking things, fixing things, learning things 🚀</b>
 </p>
 
+## 🎮 Fun Vibes
+
+<p align="center">
+  <!-- When you're deep in the matrix -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="210">
+  
+  <!-- When the model finally converges -->
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="210">
+  
+  <!-- When a tiny bug breaks everything -->
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="210">
+</p>
+
+<p align="center">
+  <b>Training models, chasing bugs, shipping anyway 😅</b>
+</p>
+
+
