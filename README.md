@@ -59,7 +59,7 @@
 
 <div align="center">
 
-**Thanks for visiting — watch out for stray bugs 🐛**
+** watch out for stray bugs 🐛**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:22c1c3&height=120&section=footer"/>
 
