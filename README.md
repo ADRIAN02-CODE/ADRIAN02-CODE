@@ -43,3 +43,24 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:22c1c3&height=120&section=footer"/>
 
 </div>
+
+
+## 🧬 Fun Vibes
+
+<p align="center">
+  <!-- Matrix-style code rain -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
+
+  <!-- Hacker / CTF energy -->
+  <img src="https://media.giphy.com/media/lPTjzfU6Nf0OjZ7U0l/giphy.gif" width="220">
+
+  <!-- Data / analytics visualizer -->
+  <img src="https://media.giphy.com/media/Y0b2MPuV0k55kNJ8hz/giphy.gif" width="220">
+</p>
+
+<p align="center">
+  <i>Coding, debugging, breaking things, fixing them, and repeating 🔁</i>
+</p>
+
+
+
