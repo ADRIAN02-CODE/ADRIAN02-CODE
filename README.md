@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:22c1c3&height=180&section=header&text=Sup%20Geeks%20👾%20I'm%20Adrian&fontSize=32&fontColor=ffffff"/>
 
-### AI & Data Science Student @ RGU  
-#### Currently: arguing with a compiler and a neural network at the same time
+
 
 <p> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="210">
 </p>
@@ -12,7 +11,6 @@
 
 ---
 
-## 📡 Currently Busy Doing…
 
 
 ## Connect with Me
@@ -28,13 +26,13 @@
 
 ---
 
-## GitHub Activity Snake  
+## 
 
 ![github-snake](https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/github-snake.svg)
 
 ---
 
-## 🎮 Fun Vibes
+##  Currently Busy Doing…
 
 <p align="center">
   <!-- Deep in the code -->
@@ -43,13 +41,6 @@
   <!-- When the code finally runs -->
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="210">
   
-  <!-- Busy debugging mode -->
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="210">
-</p>
-
-<p align="center">
-  <b>Currently: coding, debugging, and pretending everything is under control 😅</b>
-</p>
 
 ---
 
