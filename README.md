@@ -5,6 +5,8 @@
 <!-- Single hero GIF = cleaner, more modern -->
 <p>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="190">
+  
+  
 </p>
 
 ### AI & Data Science Student @ RGU  
@@ -62,3 +64,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:22c1c3&height=120&section=footer"/>
 
 </div>
+
+
+]
+
