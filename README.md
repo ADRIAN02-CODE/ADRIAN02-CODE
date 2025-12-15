@@ -44,23 +44,20 @@
 
 </div>
 
-
-## 🧬 Fun Vibes
+## 🎮 Fun Vibes
 
 <p align="center">
-  <!-- Matrix-style code rain -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
-
-  <!-- Hacker / CTF energy -->
-  <img src="https://media.giphy.com/media/lPTjzfU6Nf0OjZ7U0l/giphy.gif" width="220">
-
-  <!-- Data / analytics visualizer -->
-  <img src="https://media.giphy.com/media/Y0b2MPuV0k55kNJ8hz/giphy.gif" width="220">
+  <!-- Chill dev energy -->
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="210">
+  
+  <!-- When the code finally runs -->
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="210">
+  
+  <!-- Data / galaxy brain mode -->
+  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="210">
 </p>
 
 <p align="center">
-  <i>Coding, debugging, breaking things, fixing them, and repeating 🔁</i>
+  <b>Breaking things, fixing things, learning things 🚀</b>
 </p>
-
-
 
