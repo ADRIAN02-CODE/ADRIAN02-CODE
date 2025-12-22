@@ -54,6 +54,11 @@ EDA using Pandas and visualizations to understand datasets.
 
 ---
 
+## 🐍 Contributions Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/github-snake.svg" />
+</p>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=110&section=footer" />
