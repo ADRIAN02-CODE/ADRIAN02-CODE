@@ -11,35 +11,24 @@
 ---
 
 ## 👋 About Me
-I am an **AI & Data Science Student** at **Robert Gordon University**. I specialize in bridging the gap between complex data analysis and functional software development. I spend my time training models, designing interfaces, and figuring out why my code only works at 3:00 AM.
+I am an **AI & Data Science Student** at **Robert Gordon University**.  
+I like experimenting with code, figuring out why things break, and making them better. 
+
+Usually found working on:
+- 🐍 Python notebooks  
+- ☕ Java projects  
+- 🪲 Bugs I created myself
 
 ---
 
 ## 🧰 Languages & Tools
-
-### 🧠 AI & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r" />
-</p>
-
-### 💻 Software Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react" />
-</p>
-
-### 🗄️ Database & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,docker,aws" />
-</p>
-
-### 🎨 Design & Research
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,latex" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,postgresql,figma,git,github" />
 </p>
 
 ---
 
-## 🐍 Activity
+## 🐍 Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/github-snake.svg" alt="Snake Animation" />
 </p>
