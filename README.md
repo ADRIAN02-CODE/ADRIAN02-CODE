@@ -10,14 +10,13 @@
 
 ---
 
-## 👋 About Me
 I am an **AI & Data Science Student** at **Robert Gordon University**.  
-I like experimenting with code, figuring out why things break, and making them better. 
+I specialize in experimenting with code, figuring out why things break, and engineering data-driven solutions.
 
-Usually found working on:
-- 🐍 Python notebooks  
-- ☕ Java projects  
-- 🪲 Bugs I created myself
+**Current focus:**
+- 🐍 Machine Learning with Python 
+- ☕ Object-Oriented Programming (Java)
+- 🪲 Continuous Debugging & Optimization
 
 ---
 
