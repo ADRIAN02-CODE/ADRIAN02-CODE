@@ -1,20 +1,21 @@
 # Adrian
 
-🎓 **AI & Data Science Undergraduate | Robert Gordon University**
+🎓 **Artificial Intelligence & Data Science Undergraduate**  
+Robert Gordon University
 
 ---
 
-## Profile
-AI & Data Science student with a strong interest in machine learning, data analysis, and software development. Experienced in building academic and personal projects using Python and Java, with a focus on learning through practical implementation.
+## Professional Summary
+Motivated AI & Data Science undergraduate with a strong foundation in programming, data analysis, and machine learning concepts. Experienced in developing academic and personal projects using Python and Java, with a growing interest in applying data-driven solutions to real-world problems.
 
 ---
 
-## Skills
-- **Programming Languages:** Python, Java, JavaScript  
-- **Data & ML:** Pandas, NumPy, basic Machine Learning workflows  
+## Technical Skills
+- **Programming:** Python, Java, JavaScript  
+- **Data & Machine Learning:** Pandas, NumPy, scikit-learn (fundamentals)  
 - **Databases:** PostgreSQL  
-- **Web Technologies:** HTML, CSS, React  
-- **Tools:** Git, GitHub
+- **Web Development:** HTML, CSS, React  
+- **Tools & Platforms:** Git, GitHub
 
 ---
 
@@ -24,13 +25,13 @@ Robert Gordon University
 
 ---
 
-## Interests
-- Machine Learning & Data Analysis  
-- Software Engineering  
-- Data-driven problem solving
+## Areas of Interest
+- Machine Learning & Artificial Intelligence  
+- Data Science & Analytics  
+- Software Engineering
 
 ---
 
-## Contact
+## Professional Links
 - **LinkedIn:** https://www.linkedin.com/in/joshua-adrian-/
 - **Instagram:** https://www.instagram.com/j_adrian_v/
