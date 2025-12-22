@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Hey%20I'm%20Adrian&fontSize=34&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Sup%20It's%20Adrian&fontSize=34&fontColor=ffffff" />
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180" />
 
@@ -10,13 +10,6 @@
 
 ---
 
-I am an **AI & Data Science Student** at **Robert Gordon University**.  
-I specialize in experimenting with code, figuring out why things break, and engineering data-driven solutions.
-
-**Current focus:**
-- 🐍 Machine Learning with Python 
-- ☕ Object-Oriented Programming (Java)
-- 🪲 Continuous Debugging & Optimization
 
 ---
 
