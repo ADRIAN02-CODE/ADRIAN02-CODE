@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:22c1c3&height=160&section=header&text=Hey%20I'm%20Adrian&fontSize=34&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Hey%20I'm%20Adrian&fontSize=34&fontColor=ffffff" />
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180" />
 
@@ -12,12 +12,12 @@
 
 ## 👋 About Me
 AI & Data Science student at **Robert Gordon University**.  
-I enjoy experimenting with code, understanding why things break, and slowly making them better.
+I like experimenting with code, figuring out why things break, and making them better.
 
-Most of my time is spent in:
+Usually found working on:
 - Python notebooks  
 - Java projects  
-- Debugging things that *definitely worked yesterday*
+- Bugs I created myself
 
 ---
 
@@ -30,22 +30,25 @@ Most of my time is spent in:
 ---
 
 ## 🚀 Projects Spotlight
-A few things I’ve worked on or am currently improving:
-
 ### 🔹 Machine Learning Experiments
-Small ML projects exploring classification, regression, and data preprocessing using Python.
+Exploring classification, regression, and data preprocessing with Python.
 
 ### 🔹 Java Applications
-Coursework and personal projects focused on problem-solving and clean logic.
+Coursework and personal projects focused on logic and problem-solving.
 
 ### 🔹 Data Analysis Notebooks
-Exploratory data analysis using Pandas and visualizations to understand datasets better.
-
-> More projects coming as I keep learning 👀
+EDA using Pandas and visualizations to understand datasets.
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADRIAN02-CODE&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect
 - 🔗 LinkedIn: https://www.linkedin.com/in/joshua-adrian-/
 - 📷 Instagram: https://www.instagram.com/j_adrian_v/
 
@@ -53,6 +56,6 @@ Exploratory data analysis using Pandas and visualizations to understand datasets
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:22c1c3&height=110&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=110&section=footer" />
 
 </div>
