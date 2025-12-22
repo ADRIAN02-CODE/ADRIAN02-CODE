@@ -4,20 +4,24 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180" />
 
-AI & Data Science student @ Robert Gordon University  
-Learning by building, breaking, and rebuilding things.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=22C1C3&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Learning+by+building+and+breaking;Turning+coffee+into+code;Debugging+one+bug+at+a+time)](https://github.com/ADRIAN02-CODE)
 
 </div>
 
 ---
 
-## About Me
-I’m an AI & Data Science undergraduate who enjoys experimenting with code and understanding how things work under the hood.  
-Most days are split between Python notebooks, Java projects, and fixing bugs I definitely didn’t expect.
+## 👋 About Me
+AI & Data Science student at **Robert Gordon University**.  
+I enjoy experimenting with code, understanding why things break, and slowly making them better.
+
+Most of my time is spent in:
+- Python notebooks  
+- Java projects  
+- Debugging things that *definitely worked yesterday*
 
 ---
 
-## Tech I Use
+## 🧰 Tech Stack
 - **Languages:** Python, Java, JavaScript  
 - **Data & ML:** Pandas, NumPy, basic ML models  
 - **Web:** HTML, CSS, React  
@@ -25,18 +29,23 @@ Most days are split between Python notebooks, Java projects, and fixing bugs I d
 
 ---
 
-## Currently
-- Learning machine learning fundamentals  
-- Improving old projects  
-- Debugging something that “should have worked”
+## 🚀 Projects Spotlight
+A few things I’ve worked on or am currently improving:
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" />
-</p>
+### 🔹 Machine Learning Experiments
+Small ML projects exploring classification, regression, and data preprocessing using Python.
+
+### 🔹 Java Applications
+Coursework and personal projects focused on problem-solving and clean logic.
+
+### 🔹 Data Analysis Notebooks
+Exploratory data analysis using Pandas and visualizations to understand datasets better.
+
+> More projects coming as I keep learning 👀
 
 ---
 
-## Connect
+## 🌐 Connect With Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/joshua-adrian-/
 - 📷 Instagram: https://www.instagram.com/j_adrian_v/
 
