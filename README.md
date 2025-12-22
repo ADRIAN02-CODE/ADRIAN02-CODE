@@ -29,14 +29,28 @@ Usually found working on:
 ---
 
 ## 🚀 Projects Spotlight
-### 🔹 Machine Learning Experiments
-Exploring classification, regression, and data preprocessing with Python.
+<p align="center">
 
-### 🔹 Java Applications
-Coursework and personal projects focused on logic and problem-solving.
+<a href="https://github.com/ADRIAN02-CODE/ml-experiments" target="_blank">
+  <img src="https://img.shields.io/badge/ML%20Experiments-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="ML Experiments"/>
+</a>
 
-### 🔹 Data Analysis Notebooks
-EDA using Pandas and visualizations to understand datasets.
+<a href="https://github.com/ADRIAN02-CODE/java-apps" target="_blank">
+  <img src="https://img.shields.io/badge/Java%20Applications-Java-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java Applications"/>
+</a>
+
+<a href="https://github.com/ADRIAN02-CODE/data-analysis" target="_blank">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Pandas-green?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis"/>
+</a>
+
+</p>
+
+---
+
+## 🖤 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIAN02-CODE&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -54,13 +68,20 @@ EDA using Pandas and visualizations to understand datasets.
 
 ## 🌐 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/joshua-adrian-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/joshua-adrian-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/j_adrian_v/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/j_adrian_v/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
+<style>
+a img:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s ease-in-out;
+}
+</style>
 
 ---
 
@@ -69,4 +90,3 @@ EDA using Pandas and visualizations to understand datasets.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=110&section=footer" />
 
 </div>
-
