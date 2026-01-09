@@ -19,7 +19,7 @@
 
 ---
 
-## 🐍 Contributions
+##  Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/github-snake.svg" alt="Snake Animation" />
 </p>
