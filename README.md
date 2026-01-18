@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,postgresql,figma,git,github&theme=dark" alt="Tech stack icons" />
   </p>
   
-  <small>Python • Java • JavaScript • HTML • CSS • React • PostgreSQL • Figma • Git • GitHub</small>
+ 
 </div>
 
 <!-- Trophies -->
