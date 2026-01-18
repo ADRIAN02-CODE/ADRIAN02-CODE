@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <div align="center">
-  ### Tech Stack
+
   
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,postgresql,figma,git,github&theme=dark" alt="Tech stack icons" />
@@ -16,16 +16,13 @@
  
 </div>
 
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ADRIAN02-CODE&theme=matrix&no-frame=true&margin-w=15&column=6" width="90%"/>
-</div>
+
 
 <!-- Activity graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADRIAN02-CODE&bg_color=0d1117&color=22C1C3&line=22C1C3&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
-
+ <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif?referrer=grok.com" width="100%"/>
 <!-- Snake animation -->
 <p align="center">
   <picture>
