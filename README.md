@@ -39,5 +39,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=twinkling&fontColor=22C1C3" width="100%"/>
   <br>
-  <small>Made with ☕ and late-night debugging • Joshua Adrian Vethanayagam</small>
+
 </div>
+
