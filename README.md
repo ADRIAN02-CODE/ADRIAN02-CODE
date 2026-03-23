@@ -16,8 +16,6 @@
  
 </div>
 
-
-
 <!-- Activity graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADRIAN02-CODE&bg_color=0d1117&color=22C1C3&line=22C1C3&point=ffffff&area=true&hide_border=true" width="100%"/>
