@@ -31,13 +31,15 @@
 </p>
 
 <!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=twinkling&fontColor=22C1C3" width="100%"/>
-  <br>
 
-</div>
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=twinkling&fontColor=22C1C3" width="100%"/>
+
+</div>
+
 
