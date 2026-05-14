@@ -8,11 +8,11 @@
 
 <div align="center">
 
-  
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,postgresql,figma,git,github&theme=dark" alt="Tech stack icons" />
-  </p>
-  
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,postgresql,mysql,docker,aws,linux,git,github,figma&theme=dark" alt="Tech stack icons" />
+</p>
  
 </div>
 
