@@ -21,25 +21,24 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADRIAN02-CODE&bg_color=0d1117&color=22C1C3&line=22C1C3&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif?referrer=grok.com" width="100%"/>
-<!-- Snake animation -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/github-snake.svg" />
-    
+    <img src="https://raw.githubusercontent.com/ADRIAN02-CODE/ADRIAN02-CODE/output/github-snake-dark.svg" alt="Snake eating commits"/>
   </picture>
 </p>
-
 <!-- Footer -->
 
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+  
 </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=twinkling&fontColor=22C1C3" width="100%"/>
 
 </div>
+
 
 
