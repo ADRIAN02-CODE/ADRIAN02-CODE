@@ -9,9 +9,8 @@
 <div align="center">
 
 
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,nodejs,js,html,css,react,postgresql,mysql,docker,kubernetes,aws,linux,git,github,figma&theme=dark&perline=17" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,nodejs,js,ts,html,css,react,tailwind,bootstrap,flutter,firebase,tensorflow,mongodb,mysql,postgres,docker,kubernetes,aws,linux,git,github,figma&theme=dark&perline=24" alt="Tech stack icons" />
 </p>
  
 </div>
